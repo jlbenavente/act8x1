@@ -1,0 +1,2 @@
+h1 = {juan: 30, ana: 22,max: 34, tamara: 28}
+h2 = {camaro:280, gallardo: 320, corolla: 180}
